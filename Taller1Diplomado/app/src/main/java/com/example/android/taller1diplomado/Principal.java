@@ -114,7 +114,7 @@ public class Principal extends AppCompatActivity {
                     .setCancelable(true);
             AlertDialog alert = builder.create();
             alert.show();
-            limpiar();
+
         }
     }
 
