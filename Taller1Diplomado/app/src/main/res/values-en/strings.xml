@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="borrar">DELETE</string>
+    <string name="cantidad">Quantity</string>
+    <string name="clasico">Classic</string>
+    <string name="comprar">BUY</string>
+    <string name="error">Type Your Amount!</string>
+    <string name="estilo">Style</string>
+    <string name="genero">Gender</string>
+    <string name="hombre">Man</string>
+    <string name="marca">Branch</string>
+    <string name="mujer">Woman</string>
+    <string name="result">Result</string>
+    <string name="titutlo">Shoes Store</string>
+    <string name="total">Final Price:</string>
+    <string name="zapatilla">Sneackers</string>
+</resources>

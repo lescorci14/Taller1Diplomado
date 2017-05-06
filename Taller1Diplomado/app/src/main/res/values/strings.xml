@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name" translatable="false">Taller1Diplomado</string>
+    <string name="titutlo">Tienda de Zapatos</string>
+    <string name="genero">Genero</string>
+    <string name="estilo">Estilo</string>
+    <string name="marca">Marca</string>
+    <string name="comprar">COMPRAR</string>
+    <string name="borrar">BORRAR</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string-array name="generos">
+        <item>@string/hombre</item>
+        <item>@string/mujer</item>
+    </string-array>
+    <string name="clasico">Clasico</string>
+    <string name="zapatilla">Zapatilla</string>
+    <string-array name="estilos">
+        <item>@string/clasico</item>
+        <item>@string/zapatilla</item>
+    </string-array>
+    <string name="adidas" translatable="false">Adidas</string>
+    <string name="nike" translatable="false">Nike</string>
+    <string name="puma" translatable="false">Puma</string>
+    <string-array name="marcas">
+        <item>@string/adidas</item>
+        <item>@string/nike</item>
+        <item>@string/puma</item>
+    </string-array>
+    <string name="error">Digite la Cantidad!</string>
+    <string name="result">Resultado</string>
+    <string name="unidad" translatable="false">C/u:</string>
+    <string name="total">Precio Final:</string>
+    <string name="pesos" translatable="false">Pesos</string>
+</resources>
